@@ -6,6 +6,7 @@ categories: LA frontpage sub blog
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4V90nYGMzgeJNwjdlkdQsD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Outages
 I found a crispy [La Times](https://www.latimes.com/business/story/2025-10-20/amazon-cloud-computing-outage-disrupts-snapchat-ring-and-many-other-online-services) outside [Union Station](https://www.loc.gov/pictures/item/ca1312/) on my way to start my workday, [StFrancis](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) was open and i caught [breakFast @cityoflosangeles](https://www.stfranciscenterla.org/our-programs/) and rode the A into [Longbeach](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) to work out of [BillieJean](https://www.longbeach.gov/library/locations/main-library/) [@blackgirlscode](https://www.wearebgc.org/) i got angry on the train man . . .see comments on [metaFB](https://www.facebook.com/permalink.php?story_fbid=pfbid023a4sHtDkRBAsYSBEUz7oyoCrvBmeVi8HqGbrDZrd5UEFZQyZ9jnvceeUoBmkdq1ul&id=100084464911565)
