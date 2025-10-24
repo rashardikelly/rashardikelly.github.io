@@ -1,6 +1,3 @@
-# Rashard Kelly NasaJpl MRO JUNO iSS
-
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
