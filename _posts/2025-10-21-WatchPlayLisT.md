@@ -6,8 +6,78 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+Betty Boop
+[FILES](https://archive.org/download/betty-boop-cartoons-from-the-1930s) 
+
+<iframe src="https://archive.org/embed/betty-boop-cartoons-from-the-1930s" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/FelixTheCat-FelineFollies1919" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Max Fleischer](https://www.fleischerstudios.com/) Superman 
+ [🍅](https://www.rottentomatoes.com/celebrity/max_fleischer) 
+[MIRROR](https://archive.org/details/superman-the-ultimate-max-fleischer-cartoon-collection-dvd) 
+<iframe src="https://archive.org/embed/MaxFleischerSuperman" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Adventures Of Superman
+[imdb](https://www.imdb.com/title/tt0044231/) 1950(s)
+[FILES](https://archive.org/download/AdventuresOfSupermanS01e02TheHauntedLighthouse_201901/Adventures%20of%20Superman%281952%29/)
+<iframe src="https://archive.org/embed/AdventuresOfSupermanS01e02TheHauntedLighthouse_201901" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# (1996) Ghost In The Shell 
+[Manga Video English Dub]
+<iframe src="https://archive.org/embed/ghost-in-the-shell_202205" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[1996](https://www.youtube.com/watch?v=iHil4Y4r3Wk) @TheSpaceDevs @BlackGirlsCode
+ [Ghost in the Shell: Solid State Society](https://archive.org/details/gits-sss/GITS_SSS.ISO)
+ <iframe src="https://archive.org/embed/psx_gits" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+ [2 Hours of Anime Trailers from the 90s - kcsnipes @youtube](https://www.youtube.com/watch?v=MSzL3s59Cm8)
+
+# Berserk (1997 )
+##  ベルセルク [imdb](https://www.imdb.com/title/tt0318871/)
+[mirror](https://archive.org/details/anime-rg_berserk_1080p_1997)
+<iframe src="https://archive.org/embed/berserk-episode-16" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Mobile Suit Gundam I (1981)
+ [🍅](https://www.rottentomatoes.com/m/mobile_suit_gundam_i) / [imdb](https://www.imdb.com/title/tt0159509/)
+<iframe src="https://archive.org/embed/mobile.-suit.-gundam.-i.-1981.1080p.-blu-ray.x-264-px-hd" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Super Dimension Fortress: Macross (1982) 
+[1080p] [Dual Audio] [AC-3+AAC] [English Signs & Subtitles] [SSA] [TV+Movie+OVA+Extras] [Fatcatofalltime]
+[files](https://archive.org/download/Macross-1080p)
+<iframe src="https://archive.org/embed/Macross-1080p" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Project A-ko 2 1987 [1993 VHS DUB]
+[Saturday Anime - Project A-ko Gray Side/Blue Side 02/01/1997](https://youtu.be/TJFCb5m7dQw?si=NlLsvH98DEu_R5N5)
+[SciFi Channel - Saturday Anime-Broadcast Editions: Roujin Z 09/14/1996](https://youtu.be/2vf5XCVG4qo?t=13)
+<iframe src="https://archive.org/embed/project-a-ko-2-1987-1993" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Hokuto No Ken/Fist of the North Star Anime, OVAs and Movies
+<iframe src="https://archive.org/embed/hokuto_no_ken_by_wilmer29_d9qm239" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+The Amazing Spider-Man (Complete 1977 TV Series) [Seasons 1-2]
+<iframe src="https://archive.org/embed/theamazingspider-man1977" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Walt Disney's Silly Symphonies - The Complete Collection (1929-39)
 <iframe src="https://archive.org/embed/walt-disneys-silly-symphonies-the-complete-collection-1929-39" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+## Good Times - God's Business Is Good Business 
+Over fifty years after its debut on February 8 1974 on CBS, Good Times remains popular. It was also a historic show. Good Times was the first television show centred on a Black nuclear family, with a father, mother, and children. Previously Julia had focused on a widow with a young son. Sanford and Son centred on an elderly, widowed father and his grown son. In many respects, then, Good Times was breaking new ground. [READMORE from `A Shroud of Thoughts` mercurie.blogspot.com](https://mercurie.blogspot.com/2024/02/good-times-historic-television-series.html) ![goodtimes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIMj40AOjpcVQOJKnYNYPDzQrzpSn99t0rkmG1pKL8p_cfvJNxViFPvuM5P-UuHUm5iewuMxz6eBxAqfCgXCPEPnfZnMUuZ1ujyKjIcULxaBWO2ERBkTNhvXLIIBlJAHH9ReAQHFlHu35LceyWd-Ry_xjDj1nGD7RFUL6Ri3uH1ENqAEZmuCVf/w200-h200/Good%20Times.jpg)
+<iframe src="https://archive.org/embed/GoodTimesS01E04GodsBusinessIsGoodBusiness" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Drawn Together the Complete Series
+<iframe src="https://archive.org/embed/DrawnTogetherComplete" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## The Twilight Zone - The Original Series - Season One DVD
+<iframe src="https://archive.org/embed/twilight-zone-season-one-DVD" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+The New Adventures of Superman (1966)
+[Files](https://archive.org/download/the-new-adventures-of-superman-1966)
+
+<iframe src="https://archive.org/embed/the-new-adventures-of-superman-1966" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## CapTain America 1944
 [?Query](https://archive.org/search?query=subject%3A%22Captain+America%22+1944) 
@@ -24,7 +94,6 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 
 
 [Habesha Church](https://www.vmeotc.org/) + [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0qn5rnaKG3KGizm4PNpct38zvCL4BFCTZuciRjBY9xTatq7oMSRfneWTvouP7Xwtnl&id=100084464911565)
-
 [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
 
 Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
@@ -84,25 +153,6 @@ Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/wat
 <iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-
-The New Adventures of Superman (1966)
-[Files](https://archive.org/download/the-new-adventures-of-superman-1966)
-<iframe src="https://archive.org/embed/the-new-adventures-of-superman-1966" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-## CapTain America 1944
-[?Query](https://archive.org/search?query=subject%3A%22Captain+America%22+1944) 
-<iframe src="https://archive.org/embed/captain-america_202508" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-## Superman 1941
-[Files](https://archive.org/download/superman-1941-1943-480p-dvdrip)
-<iframe src="https://archive.org/embed/superman-1941-1943-480p-dvdrip" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-# Batman1943
-[Files](https://archive.org/download/Batman1943Chapter01TheElectricalBrain)
-
-<iframe src="https://archive.org/embed/Batman1943Chapter01TheElectricalBrain" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-[Habesha Church](https://www.vmeotc.org/) + [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0qn5rnaKG3KGizm4PNpct38zvCL4BFCTZuciRjBY9xTatq7oMSRfneWTvouP7Xwtnl&id=100084464911565)
 
 [Love Rap - SPoonie Gee](https://youtu.be/cv2ReNgW8I0?si=K9rmC3iTftUPlqyy) i wonder if he [Bobby Womack](https://video.search.yahoo.com/yhs/search?fr=yhs-firearc-keyguardchr&hsimp=yhs-keyguardchr&hspart=firearc&p=youtube+bobby+womak&q=youtube+bobby+womak&type=1704805639094716#id=1&vid=8787b39d67e013bad21fe4fee7922cec&action=click) peer or aggressor @blackgirlscode im just curious those guys spelled a lot out in thier @soundcloud accounts like, who ya wit @nasa-jpl ... @fema i called u [https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number](https://search.yahoo.com/yhs/search?hspart=firearc&hsimp=yhs-keyguardchr&type=1704805639094716&p=fema+phone+number&q=fema+phone+number) `Rumor: Call 1-800-621-3342 for FEMA assistance.`  @newshour @cityoflosangeles [AintNoHalfSteppin](https://youtu.be/RNVefp-SxvE?t=84)
 
