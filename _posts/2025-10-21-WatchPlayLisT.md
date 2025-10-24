@@ -6,6 +6,9 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+# Berserk (1997 )
+##  ベルセルク [imdb](https://www.imdb.com/title/tt0318871/)
+<iframe src="https://archive.org/embed/berserk-episode-16" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Mobile Suit Gundam I (1981)
  [🍅](https://www.rottentomatoes.com/m/mobile_suit_gundam_i) / [imdb](https://www.imdb.com/title/tt0159509/)
