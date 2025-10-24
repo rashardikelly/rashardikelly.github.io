@@ -3,26 +3,24 @@
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+# Rashard Kelly NasaJpl MRO JUNO iSS
 
- <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
-  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
-  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
-  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
-  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
-  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
- 
-@CityOfLosAngeles [FirEReport @emit-sds im causing disruption at this SHARE place i need playboy to pay me!!! @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.75,33.88,9.46z)
 
-@stateofcalifornia
-<img  alt="FIRMS_24hrs @-117 75,33 88,9 46z" src="https://github.com/user-attachments/assets/9afbb494-c8dd-41b3-ae56-1bf482413c97" />
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
@@ -60,6 +58,28 @@ https://planetarydata.jpl.nasa.gov/img/data/cassini/cassini_orbiter/coiss_2042/d
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+
+ <img src="https://jadelinux.net/images/fedoracoreone/1.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/2.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/3.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/4.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/10.png" />
+  <img src="https://jadelinux.net/images/fedoracoreone/11.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gigabyte_Technology_logo_20080107.svg/2560px-Gigabyte_Technology_logo_20080107.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Storage_Technology_Corporation_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dell_EMC_logo.svg/2560px-Dell_EMC_logo.svg.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/3PAR_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg" />
+ 
+@CityOfLosAngeles [FirEReport @emit-sds im causing disruption at this SHARE place i need playboy to pay me!!! @whitehouse](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.75,33.88,9.46z)
+
+@stateofcalifornia
+<img  alt="FIRMS_24hrs @-117 75,33 88,9 46z" src="https://github.com/user-attachments/assets/9afbb494-c8dd-41b3-ae56-1bf482413c97" />
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
