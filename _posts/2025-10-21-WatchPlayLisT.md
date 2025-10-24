@@ -6,6 +6,14 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+## Project A-ko 2 1987 [1993 VHS DUB]
+[Saturday Anime - Project A-ko Gray Side/Blue Side 02/01/1997](https://youtu.be/TJFCb5m7dQw?si=NlLsvH98DEu_R5N5)
+[SciFi Channel - Saturday Anime-Broadcast Editions: Roujin Z 09/14/1996](https://youtu.be/2vf5XCVG4qo?t=13)
+<iframe src="https://archive.org/embed/project-a-ko-2-1987-1993" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+The Amazing Spider-Man (Complete 1977 TV Series) [Seasons 1-2]
+<iframe src="https://archive.org/embed/theamazingspider-man1977" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Walt Disney's Silly Symphonies - The Complete Collection (1929-39)
 <iframe src="https://archive.org/embed/walt-disneys-silly-symphonies-the-complete-collection-1929-39" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
