@@ -24,6 +24,61 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+[comment]: <> (Emergency Files )
+
+@ISRO @isrox 
+## Photojournal went through massive redesign, blog hotlinks collapsed 
+@ESA 
+Alert for educators that scripts may be disabled from al long time ago! The site started in [1997](https://web.archive.org/web/19971001000000*/https://photojournal.jpl.nasa.gov/)  the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
+
+
+SEPT302025=>`https://photojournal.jpl.nasa.gov`
+OCT142025=>`https://science.nasa.gov/photojournal/`
+[SEPT 30 2025 SNAPSHoT - => https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/](https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/)
+
+
+[@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+
+![https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg](https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ca3f9809-e0da-4c2c-8ec6-b3c46b587577" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/27eae1a1-0cbf-4d22-a552-280420924e81" />
+
+@nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
+[Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
+`https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
+
+`[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
+```css
+
+html {
+
+font-size: 1rem;
+  font-family: "IBM Plex Sans", monospace;
+
+  
+background: url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg) -237px 30px no-repeat fixed;
+  /* new declaration */
+/* https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg */
+ 
+ background-position: 0 0;
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+color:white;
+}
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d57bc7bc-1009-4619-b0c5-cec3e42e4955" />
+
+Commit 4dc250a [See Commit](https://github.com/rashardsdata/rashardsdata.github.io/commit/4dc250a860ef253c3a11ba6b8941bef83c6b4323)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1348a89d-e831-404e-b019-9bf931294ba3" />
+
 
 @nasa-jpl @blackgirlscode 
 Changes to my stylesheet [Commit 683b424](https://github.com/ThakaRashard/rashardmro/commit/683b424e173da575fa9652e45137cb7d878794ba)
@@ -449,27 +504,7 @@ on [Astronaught Scott KElly PaceBook @meta](https://www.facebook.com/StationCDRK
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/O29mNtuwy8">https://t.co/O29mNtuwy8</a> <a href="https://twitter.com/DeptofWar?ref_src=twsrc%5Etfw">@DeptofWar</a> how do we get all the websites that say they are not updating monitored ? <a href="https://twitter.com/DISADOD?ref_src=twsrc%5Etfw">@DISADOD</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> its just a suggestion <a href="https://twitter.com/Mailchimp?ref_src=twsrc%5Etfw">@Mailchimp</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/nagiosinc?ref_src=twsrc%5Etfw">@nagiosinc</a></p>&mdash; rashardsdata (@rashardsdata) <a href="https://twitter.com/rashardsdata/status/1979649647984738394?ref_src=twsrc%5Etfw">October 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-[comment]: <> (Emergency Files )
 
-@ISRO @isrox 
-## Photojournal went through massive redesign, blog hotlinks collapsed 
-@ESA 
-Alert for educators that scripts may be disabled from al long time ago! The site started in [1997](https://web.archive.org/web/19971001000000*/https://photojournal.jpl.nasa.gov/)  the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
-
-
-SEPT302025=>`https://photojournal.jpl.nasa.gov`
-OCT142025=>`https://science.nasa.gov/photojournal/`
-[SEPT 30 2025 SNAPSHoT - => https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/](https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/)
-
-
-[@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
-
-
-![https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg](https://web.archive.org/web/19970701071318im_/http://photojournal.jpl.nasa.gov/PIA/images/SolarSystem.jpg)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/ca3f9809-e0da-4c2c-8ec6-b3c46b587577" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/27eae1a1-0cbf-4d22-a552-280420924e81" />
 
 
 ### @meta convo with @TheSpaceDevs @nasa-jpl 
@@ -1110,6 +1145,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
