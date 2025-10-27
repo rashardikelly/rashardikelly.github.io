@@ -41,8 +41,9 @@ MANAGEMENT AND BUDGET
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 [ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
 
+[Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3329802-c111-43ff-a017-d7385cd99618" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e3329802-c111-43ff-a017-d7385cd99618" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -54,7 +55,7 @@ MANAGEMENT AND BUDGET
 [NOAA-Affiliated-Projects](https://github.com/rashardsdata/NOAA-Affiliated-Projects_RashardJPLlist) 
 [nowcoast.noaa.gov/](https://nowcoast.noaa.gov/)
 - _Imagine navigating a vessel along the coast and planning the approach to your destination What factors affecting the movement of the vessel?_ [ReadmrE](https://nauticalcharts.noaa.gov/updates/data-dissemination-web-interface-supports-navigation/#more-184565)
-- 
+ 
 <img alt="image" src="https://github.com/user-attachments/assets/a1891924-1573-4928-8192-f941291f396f" />
 
 ![PuertoRico](https://nauticalcharts.noaa.gov/updates/wp-content/uploads/2025/03/cropped-EX2203_EM304_PuertoRico-2-scaled-1-1536x336.jpg)
@@ -1205,6 +1206,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
