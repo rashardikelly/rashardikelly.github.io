@@ -198,7 +198,16 @@ Changes to my stylesheet [Commit 683b424](https://github.com/ThakaRashard/rashar
 
 ```
 
-@LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) are  in my work blog cluster @usgs /@nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeagal or inappropriate caused you to add me to your block list on **`_METRO-PUBLIC_`** wifi ... [holetoanotheruniverse](holetoanotheruniverse40.github.io/) is just a computer cluster named after a tag I made up in Atlanta.. less social media please @LACMTA 🥺 
+@LACMTA 
+
+@f-droid is blocked on @LACMTA 1109A, @
+
+This site can’t be reached
+https://f-droid.org/en/packages/com.termux.styling is unreachable.
+ERR_ADDRESS_UNREACHABLE @blackgirlscode @nasa-jpp
+
+
+my[personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) are  in my work blog cluster @usgs /@nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeagal or inappropriate caused you to add me to your block list on **`_METRO-PUBLIC_`** wifi ... [holetoanotheruniverse](holetoanotheruniverse40.github.io/) is just a computer cluster named after a tag I made up in Atlanta.. less social media please @LACMTA 🥺 
 
 ```
 Web Page Blocked
