@@ -41,7 +41,7 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 ![https://www.congress.gov/member/sydney-kamlager-dove/K000400](https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/light-logo-1.png)
 [Sydney Kamlager-Dove](https://www.congress.gov/member/sydney-kamlager-dove/K000400) : at [@fecgov crenshawchamber.com/newpagea9ed47ce](https://www.crenshawchamber.com/newpagea9ed47ce) [fec.gov/data/committee/C00795823/](https://www.fec.gov/data/committee/C00795823/)
 [sd30.senate.ca.gov/contact](https://sd30.senate.ca.gov/contact)
-[kamlager-dove.house.gov/address_authentication?form=/contact](https://kamlager-dove.house.gov/address_authentication?form=/contact)
+[kamlager-dove.house.gov/address_authentication?form=/contact](https://kamlager-dove.house.gov/address_authentication?form=/contact) ::: [dbzKai35](https://dn720005.ca.archive.org/0/items/dbkai/Dragon%20Ball%20Kai%20-%2035.mp4)
 Explore current and historic federal campaign finance data on the new [fec.gov](https://www.fec.gov/data/browse-data/)
 <img  alt="@cityoflosangeles @blacgirlscode @stateofcalifornia" src="https://github.com/user-attachments/assets/60aea45d-4b98-424d-ae8f-5de2e3dbd55f" />
 
@@ -1273,6 +1273,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
