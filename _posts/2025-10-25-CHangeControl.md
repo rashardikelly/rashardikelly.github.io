@@ -16,7 +16,7 @@ permalink: /changelog
 
 # Lapse in Appropriations Contingency Plan
 [link](https://home.treasury.gov/lapse-in-appropriations-contingency-plans)
-The radical left has chosen to shut down the United States government in the name of reckless spending and obstructionism. As a result, the U.S. Department of the Treasury’s websites will only be sporadically updated until this shutdown concludes. Please refer to [Treasury’s contingency plans](https://home.treasury.gov/lapse-in-appropriations-contingency-plans) for more information
+The radical left has chosen to shut down the United States government in the name of reckless spending and obstructionism. As a result, the U.S. Department of the Treasury’s websites will only be sporadically updated until this shutdown concludes. Please refer to [Treasury’s contingency plans](https://home.treasury.gov/lapse-in-appropriations-contingency-plans) for more information / / / [@defcon MEDiA SERVER @blackgirlscode](https://media.defcon.org/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/91ddded5-e7ae-438b-b540-997780f76dc1" />
 
@@ -1446,6 +1446,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
