@@ -5,10 +5,11 @@ mermaid: true
 
 
 
-[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
-{% include nav.html %}
-{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+{% include nav.html %}
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
   {% for post in site.posts %}
     
@@ -59,6 +60,7 @@ svg  {width: 100%; height: auto;}
 </style>
 
 [marsblogv2](https://rashardgds.github.io/2025/04/22/Marsblogv2.html)
+[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
 <img   alt="image" src="https://github.com/user-attachments/assets/2ea98101-0fdd-4316-a7bb-3d8da524f3fc" />
 
 [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
