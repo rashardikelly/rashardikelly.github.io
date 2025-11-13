@@ -17,7 +17,10 @@ author: "RashardKelly @nasa-jpl"
 
 
 
-# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+# Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
+
+
+The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission to Mars, led by the University of California, Berkeley’s Space Sciences Laboratory, is set to launch sometime in fall 2024. It consists of two identical smallsats, named Blue and Gold, that will study Mars’ magnetosphere and its interaction with the solar wind. While the exact launch date is still to be determined, if the launch is successful, then ESCAPADE is projected to reach Mars by September 2025. [READMORE](https://www.ssl.berkeley.edu/escapade-mars-mission-on-track-for-fall-2024-launch/?fbclid=IwY2xjawOCAXRleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) 
 
 North Dakota Dual Aurora Camera (NoDDAC) Live Stream [11/11](https://www.youtube.com/live/TZnqoj1FNvA)
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02qMXMF8eb7Yun9BVPy4wbCBv8vjtvTFWzVSdkxY8e1LHnfF5JNnDyDEaVEV2Z6rfLl%26id%3D100084464911565&show_text=true&width=500" width="500" height="392" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -25,13 +28,22 @@ North Dakota Dual Aurora Camera (NoDDAC) Live Stream [11/11](https://www.youtube
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xjJMgywoY3vGRkRg2y2tsWsvmbXmgRWZmHcPW8AgkixqC7Hxxcsx8UsBHLHH2mDSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # Scrub: New Glenn Mission NG-2 Webcast
-New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday, November 9, from Launch Complex 36 at Cape Canaveral Space Force Station. This mission will deliver NASA's ESCAPADE twin spacecraft to Mars. Additionally, it will carry a technology demonstration from Viasat in support of NASA's Communications Services Project.
+New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday, November 9, from Launch Complex 36 at Cape Canaveral Space Force Station. This mission will deliver NASA's ESCAPADE twin spacecraft to Mars. Additionally, it will carry a technology demonstration from Viasat in support of NASA's Communications Services Project. 
+
+![Berkeley @ucberkeley](https://www.ssl.berkeley.edu/wp-content/uploads/2023/01/image-21.png) 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9WpN-c9VCQ?si=Zr--EvgC2gmBxGl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021HpumqHTZ3i6zFd9sMZ5CdR9s68st8ixPgXP3hQ8sJxZQdmL9DHWxzWFx2DZxRfpl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0KizeuB3DirYCayNGMw1otccY4G8rCFHj9amCqyQ75bsaTaepFacWXGNFLE8rAXktl%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 -- Launch Support @nasa @blueorigin @noaagov @blackgirlscode @normani 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0JeCVne4oumsYKyvkvz2yeurcik4uEA2o2dC1pxP3e4ytjemAjR7pK1KbuueuGXogl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+![ESCAPADE](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014641/ESCAPADE-FINAL-Horizontal-Front_Web_print.jpg) 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0cEYpmQCFWR59KAkk5rTBVp1Y4jYqQpk8EfeQnHBQm2HAtd7wrfwuReU5hWdDpWsDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -39,6 +51,15 @@ New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday,
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AnMbxhoWtsjkNgEJQjCH4kVVWVe52HPkrQeXsPiSi6Dfc3DuVQgTdzFMzZsM55pPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="307" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aF7WEiuCwtz6DaSv9P8FLrYHzyL6y6PzuRi8ag3Bc4cxpyodi6XHCAi1agkcjS42l%26id%3D100084464911565&show_text=true&width=500" width="500" height="636" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+# PLANS
+## FlightPath
+![FLightpath](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FNG-2_FlightProfile.jpg&w=1080&q=75)
+
+
+## Booster Recovery
+![boosterRecovery](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-BoosterRecovery.jpg&w=1080&q=75) 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
