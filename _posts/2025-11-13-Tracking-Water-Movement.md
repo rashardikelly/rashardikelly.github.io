@@ -19,6 +19,18 @@ categories: LA eco ecostress water climate weather
 [SWOT Hydrology Data Tutorials](https://swot-community.github.io/SWOT-galleries/hydrology/hydrology.html)
 Hydrology-relevant tutorials and resources for the Surface Water and Ocean Topography ([SWOT](https://swot.jpl.nasa.gov/))
 
+@Cityoflosangeles 
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g)
+
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw)
+
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPd5leHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjt6s4g6DGPGj-tS_csxPfnflXNU22OtxcJpaM2Hw9cPZBS0PTfXi7dzU_Wv_aem_I0geKLDNiCH2duPzyLI77A">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPd5leHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjt6s4g6DGPGj-tS_csxPfnflXNU22OtxcJpaM2Hw9cPZBS0PTfXi7dzU_Wv_aem_I0geKLDNiCH2duPzyLI77A)
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000280/full/pct:25/0/default.jpg">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000280/full/pct:25/0/default.jpg)
+
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0UpFLb3DEfHo2yvUraoF8erZgxHhMkKVJLzqW2qtBXfogsYp2FJNNc9DNNdPGADS6l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [PACE](https://eyes.nasa.gov/apps/earth/#/satellites/pace)
