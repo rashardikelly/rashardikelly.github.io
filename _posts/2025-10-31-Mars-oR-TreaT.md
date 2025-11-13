@@ -67,8 +67,12 @@ New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday,
 
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
+![ESCAPADE @nasa-jpl @blueorigin @cityoflosangeles @blackgirlscode](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png) 
+
 
 # @NASA iNSight LAnding
+[LaunchFacts](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/) 
+
 @nasa-jpl @blackgirlscode @StateOfCalifornia @CityOfLosAngeles 
 [Link @blueorigin @TheSpaceDevs @nasa-pds](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing/start/60/end/182.7) 
 [1944](https://archive.org/details/CaptainAmerica1944Serial1/Captain+America_+1944+Serial+-+%231.mp4)
@@ -77,7 +81,8 @@ New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday,
 <iframe width="640" height="480" frameborder="0" allowfullscreen src="https://archive.org/embed/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing?start=60&end=120" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 <img   alt="image" src="https://github.com/user-attachments/assets/d06e9eb7-3346-4952-8b18-5f4460a7233a" />
 
-
+@blackgirlscode [Lockheed insight trailer @nasa-jpl @isro](https://youtu.be/C0lwFLPiZEE) 
+[Lockheed - insight data](https://www.lockheedmartin.com/en-us/products/insight-mars-lander.html) 
 <a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a>
 
 <object  data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" type="application/pdf"></object> 
